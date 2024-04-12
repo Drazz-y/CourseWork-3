@@ -63,7 +63,7 @@ export default {
     CheckOut,
   },
   data() {
-    let base_url = 'http://localhost:4500';
+    let base_url = 'https://andrew-ebube-cst3145-cw2.onrender.com';
     return {
       lessons: [],
       showCartPage: false,
